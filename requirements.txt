@@ -1,0 +1,6 @@
+# argostranslate - if you want use ArgosTranslator
+# fasttext - if you want use LangDetector
+# googletrans - if you want use GoogleTranslator
+# httpx - if you want use GoogleTranslator
+pandas
+tabula
